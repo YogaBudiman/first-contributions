@@ -70,6 +70,7 @@
 - [Edgar Dikenge](https://github.com/edgar3g)
 - [Osama Ahmad](https://github.com/oahmadgit)
 - [Guillaume Muller](https://github.com/gmuller-dev)
+- Yoga Budman
 - Nandini Kashyap
 - [Duc Dong](https://github.com/ducdongmg)
 - [Abstract Hunter](https://github.com/abstractHunter) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/yao-daniel-attitsogbe/)
